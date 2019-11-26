@@ -13,8 +13,7 @@ Goto -> Appinsights -> Performance -> Then you will see nice looking layout.
 --> Role - this is where you get to see CPU Usages. If you have multiple instance, you see those here as well (broken down nicely for you
 
 
-
-
 ### Profiler - Snapshot debugger vs Kudu advance tools 
 
+This are pretty useful tools. Snapshot debugger is sort of automated. Kudu tools is abit manual as you have to enable the profiler yourself. 
 
