@@ -15,6 +15,6 @@ Goto -> Appinsights -> Performance -> Then you will see nice looking layout.
 
 
 
-Snapshot debugger vs Kudu advance tools 
+### Profiler - Snapshot debugger vs Kudu advance tools 
 
 
